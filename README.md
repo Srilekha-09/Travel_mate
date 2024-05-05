@@ -1,4 +1,4 @@
-# 🌍 gen-ai-travel-planner: Travel Itinerary Generator
+# 🌍 Travel_mate: Travel Itinerary Generator
 
 Welcome to **gen-ai-travel-planner**, a user-friendly Travel Itinerary Generator built with Streamlit and powered by Google's PaLM model for text generation. Plan your dream trip with ease and get a personalized itinerary based on your preferences!
 
