@@ -1,6 +1,6 @@
 # 🌍 Travel_mate: Travel Itinerary Generator
 
-Welcome to **gen-ai-travel-planner**, a user-friendly Travel Itinerary Generator built with Streamlit and powered by Google's PaLM model for text generation. Plan your dream trip with ease and get a personalized itinerary based on your preferences!
+Welcome to **travel_mate**, a user-friendly Travel Itinerary Generator built with HTML,CSS ,Streamlit and powered by Google's PaLM model for text generation. Plan your dream trip with ease and get a personalized itinerary based on your preferences!
 
 ## 🚀 Features
 
@@ -20,9 +20,7 @@ pip install streamlit google.generativeai ics
 
 Get set up with these quick steps:
 ### 1.Clone the Repository
-```bash
-git clone https://github.com/adityachavan198/gen-ai-travel-planner
-```
+
 ### 2.Navigate to the Directory
 ```bash
 cd gen-ai-travel-planner
